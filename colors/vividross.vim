@@ -1,8 +1,7 @@
 " Vim color scheme
-" Name:         vividchalk.vim
-" Author:       Tim Pope <vimNOSPAM@tpope.info>
-" Version:      2.0
-" GetLatestVimScripts: 1891 1 :AutoInstall: vividchalk.vim
+" Name:         vividross.vim
+" Author:       Alexander Ross <alex@aross.se>, Tim Pope <vimNOSPAM@tpope.info>
+" Version:      0.1
 
 " Based on the Vibrank Ink theme for TextMate
 " Distributable under the same terms as Vim itself (see :help license)
@@ -15,7 +14,7 @@ if exists("syntax_on")
    syntax reset
 endif
 
-let colors_name = "vividchalk"
+let colors_name = "vividross"
 
 " First two functions adapted from inkpot.vim
 
